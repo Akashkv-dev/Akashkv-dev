@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Akash 👋</h1>
 <p align="center">
   <a href="mailto:akashkv11@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/akash-kv-ba6060230/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/akash-kv-ba6060230/">LinkedIn</a> 
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Developer Gif" width="300">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Developer Gif" width="300">
 </div>
 
 ### 🧠 About Me
