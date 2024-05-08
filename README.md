@@ -1,15 +1,17 @@
 <h1 align="center">Hi there, I'm Akash 👋</h1>
 <p align="center">
   <a href="mailto:akashkv11@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/your-linkedin-profile">LinkedIn</a> •
-  <a href="https://twitter.com/your-twitter-handle">Twitter</a>
+  <a href="https://www.linkedin.com/in/akash-kv-ba6060230/">LinkedIn</a> •
 </p>
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Developer Gif" width="300">
+</div>
+
 ### 🧠 About Me
 
-- 🎓 Studying Computer Science Engineering
 - 💼 Currently working on MERN-stack projects
 - 🌱 Learning Typescript, Docker, Microservice Architecture
 - 💻 Enthusiast in Full Stack Development
@@ -37,8 +39,7 @@
 ### 🤝 Let's Connect
 
 - 👉 Email: akashkv11@gmail.com
-- 👉 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-profile)
-- 👉 Twitter: [Your Twitter Handle](https://twitter.com/your-twitter-handle)
+- 👉 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/akash-kv-ba6060230/)
 
 ---
 
