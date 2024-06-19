@@ -23,7 +23,7 @@
 
 - Frontend: React.js, HTML, CSS, TailwindCSS, Bootstrap
 - Backend: Node.js, Express.js
-- Database: MongoDB, MySQL, Firebase
+- Database: MongoDB, PostgreSQL, Firebase
 - Tools: Git, VSCode, Postman
 - Others: REST API, Socket.io
 
